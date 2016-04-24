@@ -1,0 +1,1 @@
+This is zhushiwei's first attemp to use git
